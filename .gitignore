@@ -1,0 +1,18 @@
+# Lingkungan virtual Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Cache Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Berkas sistem
+Thumbs.db
+desktop.ini
+.DS_Store
